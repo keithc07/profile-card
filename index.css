@@ -7,8 +7,8 @@
         url(./images/bg-pattern-top.svg),
         url(./images/bg-pattern-bottom.svg);
     background-position:
-        bottom 500px left -100px, /* this positions the first image */
-        top 500px right -100px; /* this positions the second image */
+        bottom 500px left -200px, /* this positions the first image */
+        top 500px right -200px; /* this positions the second image */
     background-repeat:
         no-repeat;
     display: flex;
